@@ -1,0 +1,1772 @@
+[
+  {
+    "question": "1. OYP ning ma'lumotlar va metodlarni obyektda birlashtirishga javob beradigan prinsipi qaysi?",
+    "answers": [
+      "Inkapsulyatsiya",
+      "Vorislik",
+      "Polimorfizm",
+      "Abstraksiya"
+    ],
+    "correct": "Inkapsulyatsiya"
+  },
+  {
+    "question": "2. OYP da klass nima?",
+    "answers": [
+      "Obyektlarni yaratish uchun shablon, ularning tuzilishi va harakatini belgilaydi",
+      "Ma'lumotlarni saqlaydigan o'zgaruvchi",
+      "Metodlarni yaratish uchun maxsus funksiya",
+      "Massivlar bilan ishlash uchun metod"
+    ],
+    "correct": "Obyektlarni yaratish uchun shablon, ularning tuzilishi va harakatini belgilaydi"
+  },
+  {
+    "question": "3. Mavjud klass asosida yangi klass yaratish jarayoni qanday nomlanadi?",
+    "answers": [
+      "Vorislik",
+      "Polimorfizm",
+      "Inkapsulyatsiya",
+      "Abstraksiya"
+    ],
+    "correct": "Vorislik"
+  },
+  {
+    "question": "4. Klass konstruktori nima qiladi?",
+    "answers": [
+      "Obyekt yaratilganda uning maydonlarini ishga tushiradi (initsializatsiya qiladi)",
+      "Obyektni xotiradan o'chiradi",
+      "Obyekt turini aniqlaydi",
+      "Klass metodlarini chaqiradi"
+    ],
+    "correct": "Obyekt yaratilganda uning maydonlarini ishga tushiradi (initsializatsiya qiladi)"
+  },
+  {
+    "question": "5. Obyekt o'chirilganda chaqiriladigan maxsus funksiya qanday nomlanadi?",
+    "answers": [
+      "Destruktor",
+      "Konstruktor",
+      "Metod",
+      "Operatorni yuklash (overload)"
+    ],
+    "correct": "Destruktor"
+  },
+  {
+    "question": "6. C++ da destruktor nomi oldida qanday belgi ishlatiladi?",
+    "answers": [
+      "\\~",
+      "@",
+      "!",
+      "\\#"
+    ],
+    "correct": "\\~"
+  },
+  {
+    "question": "7. Bir metodni turli klasslarda turli amalga oshirish bilan ishlatishga imkon beruvchi mexanizm qaysi?",
+    "answers": [
+      "Polimorfizm",
+      "Inkapsulyatsiya",
+      "Vorislik",
+      "Abstraksiya"
+    ],
+    "correct": "Polimorfizm"
+  },
+  {
+    "question": "8. Parametrli konstruktor parametrsiz konstruktordan qanday farq qiladi?",
+    "answers": [
+      "Parametrli konstruktor obyektni aniq qiymatlar bilan ishga tushiradi",
+      "Parametrli konstruktor obyektni ishga tushirmaydi",
+      "Parametrsiz konstruktor doim qiymat qaytaradi",
+      "Parametrsiz konstruktor parametr qabul qilmaydi"
+    ],
+    "correct": "Parametrli konstruktor obyektni aniq qiymatlar bilan ishga tushiradi"
+  },
+  {
+    "question": "9. OYP da abstraksiya nima?",
+    "answers": [
+      "Obyektning asosiy xususiyatlarini ajratib, amalga oshirish tafsilotlarini yashirish",
+      "Xususiyatlarni boshqa obyektlardan voris qilib olish",
+      "Ma'lumotlarni noto'g'ri ishlatishdan himoya qilish prinsipi",
+      "Mavjud obyektlar asosida yangi obyektlar yaratish usuli"
+    ],
+    "correct": "Obyektning asosiy xususiyatlarini ajratib, amalga oshirish tafsilotlarini yashirish"
+  },
+  {
+    "question": "10. Ob'ektga yo'naltirilgan dasturlash (OYP) nima?",
+    "answers": [
+      "Ma'lumotlarni obyektlar shaklida ifodalovchi paradigma",
+      "Dasturlash tili",
+      "Kodni optimallashtirish usuli",
+      "Testlashga yondashuv"
+    ],
+    "correct": "Ma'lumotlarni obyektlar shaklida ifodalovchi paradigma"
+  },
+  {
+    "question": "11. OYP ning ma'lumotlarni obyekt ichida yashirishga javob beradigan prinsipi qaysi?",
+    "answers": [
+      "Inkapsulyatsiya",
+      "Vorislik",
+      "Polimorfizm",
+      "Kompozitsiya"
+    ],
+    "correct": "Inkapsulyatsiya"
+  },
+  {
+    "question": "12. Klasslar orasidagi \"qism-butun\" munosabati qanday nomlanadi?",
+    "answers": [
+      "Kompozitsiya",
+      "Vorislik",
+      "Polimorfizm",
+      "Agregatsiya"
+    ],
+    "correct": "Kompozitsiya"
+  },
+  {
+    "question": "13. OYP ning mavjud klasslar asosida yangi klasslar yaratishga imkon beruvchi prinsipi qaysi?",
+    "answers": [
+      "Vorislik",
+      "Inkapsulyatsiya",
+      "Polimorfizm",
+      "Abstraksiya"
+    ],
+    "correct": "Vorislik"
+  },
+  {
+    "question": "14. Qaysi kirish spetsifikatori ma'lumotlarni faqat klass ichida mavjud qiladi?",
+    "answers": [
+      "private",
+      "public",
+      "protected",
+      "static"
+    ],
+    "correct": "private"
+  },
+  {
+    "question": "15. Qaysi kirish spetsifikatori voris klasslarga meros olingan ma'lumotlardan foydalanishga ruxsat beradi?",
+    "answers": [
+      "protected",
+      "private",
+      "public",
+      "internal"
+    ],
+    "correct": "protected"
+  },
+  {
+    "question": "16. Klass obyektlarini o'z ichiga olgan massiv qanday nomlanadi?",
+    "answers": [
+      "Obyektlar massivi",
+      "Dinamik massiv",
+      "Obyektlarga ko'rsatkich",
+      "Obyektlar ro'yxati (list)"
+    ],
+    "correct": "Obyektlar massivi"
+  },
+  {
+    "question": "17. arr[3] massiv obyektining metodiga qanday murojaat qilinadi?",
+    "answers": [
+      "arr[3].method()",
+      "arr.method[3]",
+      "method(arr[3])",
+      "arr->method(3)"
+    ],
+    "correct": "arr[3].method()"
+  },
+  {
+    "question": "18. Obyekt a'zolariga ko'rsatkich orqali murojaat qilish uchun qaysi operator ishlatiladi?",
+    "answers": [
+      "->",
+      ".",
+      "*",
+      "&"
+    ],
+    "correct": "->"
+  },
+  {
+    "question": "19. Bir klass boshqa klassga havola qiladigan, lekin uning hayotiy sikli bilan boshqarmaydigan munosabat qanday nomlanadi?",
+    "answers": [
+      "Agregatsiya",
+      "Kompozitsiya",
+      "Polimorfizm",
+      "Vorislik"
+    ],
+    "correct": "Agregatsiya"
+  },
+  {
+    "question": "20. Obyekt yaratilganda avtomatik ravishda qaysi metod chaqiriladi?",
+    "answers": [
+      "Konstruktor",
+      "Destruktor",
+      "Getter",
+      "Setter"
+    ],
+    "correct": "Konstruktor"
+  },
+  {
+    "question": "21. Obyektning barcha metodlariga avtomatik uzatiladigan maxsus ko'rsatkich qanday nomlanadi?",
+    "answers": [
+      "this",
+      "super",
+      "base",
+      "ptr"
+    ],
+    "correct": "this"
+  },
+  {
+    "question": "22. Agar klassda faqat parametrli konstruktor e'lon qilingan bo'lsa, lekin parametrsiz konstruktor e'lon qilinmagan bo'lsa nima bo'ladi?",
+    "answers": [
+      "Parametrsiz obyekt yaratib bo'lmaydi",
+      "Barcha obyektlar nol qiymatlar bilan yaratiladi",
+      "Kompilyator avtomatik ravishda bo'sh konstruktor yaratadi",
+      "Kod kompilyatsiyadan o'tmaydi"
+    ],
+    "correct": "Parametrsiz obyekt yaratib bo'lmaydi"
+  },
+  {
+    "question": "23. OYP ning bir metodga turli xil ma'lumotlar turlari bilan ishlashga imkon beruvchi prinsipi qaysi?",
+    "answers": [
+      "Polimorfizm",
+      "Vorislik",
+      "Kompozitsiya",
+      "Inkapsulyatsiya"
+    ],
+    "correct": "Polimorfizm"
+  },
+  {
+    "question": "24. Person klassining 5 o'lchamdagi massivini qanday e'lon qilish mumkin?",
+    "answers": [
+      "Person arr[5];",
+      "Person[5] arr;",
+      "Person arr = new Person[5];",
+      "Person arr{5};"
+    ],
+    "correct": "Person arr[5];"
+  },
+  {
+    "question": "25. Obyektlar massivi uchun dinamik xotira ajratishda qaysi operator ishlatiladi?",
+    "answers": [
+      "new",
+      "malloc",
+      "allocate",
+      "create"
+    ],
+    "correct": "new"
+  },
+  {
+    "question": "26. Obyekt o'chirilganda avtomatik ravishda qaysi metod chaqiriladi?",
+    "answers": [
+      "Destruktor",
+      "Konstruktor",
+      "Finalizator",
+      "Getter"
+    ],
+    "correct": "Destruktor"
+  },
+  {
+    "question": "27. Dinamik obyektlar massivini o'chirish uchun qaysi operator ishlatiladi?",
+    "answers": [
+      "delete[]",
+      "free()",
+      "delete",
+      "clear()"
+    ],
+    "correct": "delete[]"
+  },
+  {
+    "question": "28. Turli klasslarning obyektlari bilan bitta interfeys orqali ishlashga imkon beruvchi mexanizm qaysi?",
+    "answers": [
+      "Polimorfizm",
+      "Vorislik",
+      "Kompozitsiya",
+      "Inkapsulyatsiya"
+    ],
+    "correct": "Polimorfizm"
+  },
+  {
+    "question": "29. Klasslar orasidagi \"xususiyatlarni meros qilib olish\"ni modellashtirish uchun qaysi munosabat turi ishlatiladi?",
+    "answers": [
+      "Vorislik",
+      "Kompozitsiya",
+      "Agregatsiya",
+      "Polimorfizm"
+    ],
+    "correct": "Vorislik"
+  },
+  {
+    "question": "30. Inkapsulyatsiya nima?",
+    "answers": [
+      "Klass amalga oshirish tafsilotlarini yashirish",
+      "Klasslarni birlashtirish usuli",
+      "Malumotlar bazalari bilan ishlash mexanizmi",
+      "Bir nechta obyektlarni yaratish"
+    ],
+    "correct": "Klass amalga oshirish tafsilotlarini yashirish"
+  },
+  {
+    "question": "31. C++ da qanday kirish spetsifikatorlari mavjud?",
+    "answers": [
+      "private, protected, public",
+      "internal, global, local",
+      "hide, show, restrict",
+      "lock, unlock, secure"
+    ],
+    "correct": "private, protected, public"
+  },
+  {
+    "question": "32. Qaysi kirish spetsifikatori klass a'zolariga faqat klass ichida murojaat qilishga ruxsat beradi?",
+    "answers": [
+      "private",
+      "public",
+      "protected",
+      "static"
+    ],
+    "correct": "private"
+  },
+  {
+    "question": "33. OYP ning mavjud klass asosida yangi klass yaratishga imkon beruvchi prinsipi qaysi?",
+    "answers": [
+      "Vorislik",
+      "Polimorfizm",
+      "Inkapsulyatsiya",
+      "Kompozitsiya"
+    ],
+    "correct": "Vorislik"
+  },
+  {
+    "question": "34. Boshqa klasslar meros oladigan klass qanday nomlanadi?",
+    "answers": [
+      "Asosiy klass (baza klassi)",
+      "Voris klass (farzand klassi)",
+      "Abstrakt klass",
+      "Konstruktor"
+    ],
+    "correct": "Asosiy klass (baza klassi)"
+  },
+  {
+    "question": "35. class B : public A dagi meros turi qaysi?",
+    "answers": [
+      "Ochiq (public)",
+      "Yopiq (private)",
+      "Himoyalangan (protected)",
+      "Virtual"
+    ],
+    "correct": "Ochiq (public)"
+  },
+  {
+    "question": "36. OYP ning turli klasslarning obyektlari bilan bitta interfeys orqali ishlashga imkon beruvchi prinsipi qaysi?",
+    "answers": [
+      "Polimorfizm",
+      "Vorislik",
+      "Inkapsulyatsiya",
+      "Agregatsiya"
+    ],
+    "correct": "Polimorfizm"
+  },
+  {
+    "question": "37. Baza klassida virtual funksiyani qanday e'lon qilish mumkin?",
+    "answers": [
+      "virtual void method();",
+      "void virtual method();",
+      "abstract void method();",
+      "method() virtual;"
+    ],
+    "correct": "virtual void method();"
+  },
+  {
+    "question": "38. C++ da metodlarni dinamik bog'lash (kechiktirilgan bog'lash) uchun qaysi mexanizm ishlatiladi?",
+    "answers": [
+      "Virtual funksiyalar",
+      "Statik metodlar",
+      "Konstruktorlar",
+      "Makroslar"
+    ],
+    "correct": "Virtual funksiyalar"
+  },
+  {
+    "question": "39. Sof virtual funksiya nima?",
+    "answers": [
+      "Voris klassda qayta belgilanishi kerak bo'lgan amalga oshirilmagan funksiya",
+      "Faqat baza klassi ichida chaqiriladigan funksiya",
+      "Kompilyatsiya vaqtida chaqiriladigan funksiya",
+      "Faqat ko'rsatkichlar bilan ishlaydigan funksiya"
+    ],
+    "correct": "Voris klassda qayta belgilanishi kerak bo'lgan amalga oshirilmagan funksiya"
+  },
+  {
+    "question": "40. Qaysi klass abstrakt klass deb ataladi?",
+    "answers": [
+      "Kamida bitta sof virtual funksiyaga ega bo'lgan klass",
+      "Faqat statik metodlarni o'z ichiga olgan klass",
+      "Meros olinmaydigan klass",
+      "Konstruktori bo'lmagan klass"
+    ],
+    "correct": "Kamida bitta sof virtual funksiyaga ega bo'lgan klass"
+  },
+  {
+    "question": "41. Abstrakt klassning obyektini yaratish mumkinmi?",
+    "answers": [
+      "Yo'q",
+      "Ha",
+      "Faqat baza klassi chegarasida",
+      "Faqat klass friend-funksiyalarga ega bo'lsa"
+    ],
+    "correct": "Yo'q"
+  },
+  {
+    "question": "42. Baza klassida virtual destruktorni qanday e'lon qilish mumkin?",
+    "answers": [
+      "virtual ~ClassName();",
+      "~virtual ClassName();",
+      "void virtual ~ClassName();",
+      "~ClassName();"
+    ],
+    "correct": "virtual ~ClassName();"
+  },
+  {
+    "question": "43. Metodlarni dinamik bog'lash uchun ishlatiladigan ma'lumotlar strukturasi qanday nomlanadi?",
+    "answers": [
+      "Virtual funksiyalar jadvali (VTable)",
+      "Klasslar daraxti",
+      "Dinamik xotira xaritasi",
+      "Obyektlar puli (pool)"
+    ],
+    "correct": "Virtual funksiyalar jadvali (VTable)"
+  },
+  {
+    "question": "44. Baza klassidan virtual funksiyani chaqirish uchun qanday sintaksis ishlatiladi?",
+    "answers": [
+      "BaseClass::method();",
+      "this->method();",
+      "super.method();",
+      "virtual.method();"
+    ],
+    "correct": "BaseClass::method();"
+  },
+  {
+    "question": "45. Klass metodlariga avtomatik ravishda uzatiladigan ko'rsatkich qaysi?",
+    "answers": [
+      "this",
+      "super",
+      "base",
+      "ptr"
+    ],
+    "correct": "this"
+  },
+  {
+    "question": "46. Virtual funksiyaning voris klassda qayta belgilanishining oldini olish uchun qaysi kalit so'z ishlatiladi?",
+    "answers": [
+      "final",
+      "override",
+      "sealed",
+      "protected"
+    ],
+    "correct": "final"
+  },
+  {
+    "question": "47. Virtual funksiyaning bazaviy versiyasini aniq chaqirish uchun qanday sintaksis ishlatiladi?",
+    "answers": [
+      "BaseClass::method();",
+      "this->method();",
+      "super.method();",
+      "virtual.method();"
+    ],
+    "correct": "BaseClass::method();"
+  },
+  {
+    "question": "48. Statik va dinamik polimorfizm o'rtasidagi farq nima?",
+    "answers": [
+      "Statik polimorfizm kompilyatsiya bosqichida amalga oshiriladi, dinamik polimorfizm esa bajarilish vaqtida",
+      "Ikkalasi ham bajarilish vaqtida ishlaydi",
+      "Dinamik polimorfizm statik polimorfizmdan tezroq bajariladi",
+      "Ular butunlay bir xil"
+    ],
+    "correct": "Statik polimorfizm kompilyatsiya bosqichida amalga oshiriladi, dinamik polimorfizm esa bajarilish vaqtida"
+  },
+  {
+    "question": "49. Funksiya shabloni nima?",
+    "answers": [
+      "Turli xil ma'lumotlar turlari bilan ishlaydigan funksiya",
+      "Bir necha marta chaqiriladigan funksiya",
+      "Ko'rsatkichlardan foydalanadigan funksiya",
+      "If-shartlarini o'z ichiga olgan funksiya"
+    ],
+    "correct": "Turli xil ma'lumotlar turlari bilan ishlaydigan funksiya"
+  },
+  {
+    "question": "50. Funksiya shablonini qanday e'lon qilish mumkin?",
+    "answers": [
+      "template <typename T>",
+      "function<T>()",
+      "class function(T)",
+      "auto function<T>()"
+    ],
+    "correct": "template <typename T>"
+  },
+  {
+    "question": "51. Funksiyani chaqirishda shablon parametrini ko'rsatish uchun qaysi operator ishlatiladi?",
+    "answers": [
+      "<>",
+      "[]",
+      "{}",
+      "()"
+    ],
+    "correct": "<>"
+  },
+  {
+    "question": "52. Funksiya shablonlarida qaysi kalit so'z turi ishlatiladi?",
+    "answers": [
+      "typename",
+      "class",
+      "template",
+      "auto"
+    ],
+    "correct": "typename"
+  },
+  {
+    "question": "53. Ikki xil turdagi parametrlarni qabul qiluvchi funksiya shablonini qanday yaratish mumkin?",
+    "answers": [
+      "template <typename T1, typename T2>",
+      "template <T1, T2>",
+      "function(T1, T2)",
+      "auto function<T1, T2>()"
+    ],
+    "correct": "template <typename T1, typename T2>"
+  },
+  {
+    "question": "54. Shablon funksiyasi chaqirilganda kompilyator nima qiladi?",
+    "answers": [
+      "Berilgan tur bilan funksiyaning aniq versiyasini yaratadi",
+      "Shablonni o'zgartirmasdan chaqiradi",
+      "Tur parametrlarini e'tiborsiz qoldiradi",
+      "Shablonni makrosga aylantiradi"
+    ],
+    "correct": "Berilgan tur bilan funksiyaning aniq versiyasini yaratadi"
+  },
+  {
+    "question": "55. Kompilyator tomonidan shablon asosida yaratilgan funksiya qanday nomlanadi?",
+    "answers": [
+      "Shablon nusxasi (instance)",
+      "Yuklangan funksiya (overloaded)",
+      "Makros",
+      "Dinamik chaqiruv"
+    ],
+    "correct": "Shablon nusxasi (instance)"
+  },
+  {
+    "question": "56. Foydalanuvchi klasslarining obyektlarini shablon funksiyalariga uzatish mumkinmi?",
+    "answers": [
+      "Ha, agar kerakli operatorlar yuklangan bo'lsa",
+      "Yo'q, faqat oddiy (built-in) turlar",
+      "Faqat ko'rsatkichlar orqali",
+      "Faqat klass std::template dan meros olingan bo'lsa"
+    ],
+    "correct": "Ha, agar kerakli operatorlar yuklangan bo'lsa"
+  },
+  {
+    "question": "57. Klass shablonini qanday yaratish mumkin?",
+    "answers": [
+      "template <class T> class MyClass {}",
+      "class template MyClass {}",
+      "MyClass<T> class {}",
+      "template class MyClass<T> {}"
+    ],
+    "correct": "template <class T> class MyClass {}"
+  },
+  {
+    "question": "58. Array shablon klassining int turdagi obyektini qanday yaratish mumkin?",
+    "answers": [
+      "Array<int> arr;",
+      "Array arr<int>;",
+      "Array(arr<int>);",
+      "Array[int] arr;"
+    ],
+    "correct": "Array<int> arr;"
+  },
+  {
+    "question": "59. Shablon massiv klassining elementlariga kirish uchun qaysi operator ishlatiladi?",
+    "answers": [
+      "[]",
+      "()",
+      "{}",
+      "<>"
+    ],
+    "correct": "[]"
+  },
+  {
+    "question": "60. Shablon klassining metodini uning tanasidan tashqarida qanday e'lon qilish mumkin?",
+    "answers": [
+      "template <typename T> returnType ClassName<T>::method()",
+      "returnType template<T> ClassName.method()",
+      "template method<ClassName>(T)",
+      "template ClassName::method<T>()"
+    ],
+    "correct": "template <typename T> returnType ClassName<T>::method()"
+  },
+  {
+    "question": "61. Shablonni maxsuslashtirish (spetsializatsiya) nima?",
+    "answers": [
+      "Muayyan tur uchun shablonning maxsus versiyasini aniqlash",
+      "Turlarni avtomatik aniqlash",
+      "Shablondan parametrsiz foydalanish",
+      "Shablon turini auto bilan almashtirish"
+    ],
+    "correct": "Muayyan tur uchun shablonning maxsus versiyasini aniqlash"
+  },
+  {
+    "question": "62. Shablonning qisman maxsuslashtirishini (partial specialization) qanday e'lon qilish mumkin?",
+    "answers": [
+      "template <typename T1, typename T2> class MyClass<T1, int>",
+      "template class MyClass<T, int>",
+      "class MyClass<int> template",
+      "MyClass<int> template class"
+    ],
+    "correct": "template <typename T1, typename T2> class MyClass<T1, int>"
+  },
+  {
+    "question": "63. Klass shabloni bir nechta parametrga ega bo'lishi mumkinmi?",
+    "answers": [
+      "Ha, parametrlar vergul bilan ajratiladi",
+      "Yo'q, faqat bitta parametr",
+      "Faqat multiple kalit so'zi bilan",
+      "Faqat klass template<> dan meros olingan bo'lsa"
+    ],
+    "correct": "Ha, parametrlar vergul bilan ajratiladi"
+  },
+  {
+    "question": "64. Klass shablonlari odatda qaysi faylda e'lon qilinadi?",
+    "answers": [
+      "Sarlavha (header) faylida .h",
+      ".cpp faylida",
+      ".hpp faylida",
+      ".lib faylida"
+    ],
+    "correct": "Sarlavha (header) faylida .h"
+  },
+  {
+    "question": "65. Shablonlarda typename va class o'rtasidagi farq nimada?",
+    "answers": [
+      "Funksiya va klass shablonlarida ular ekvivalent",
+      "typename faqat ko'rsatkichlar bilan ishlaydi",
+      "class faqat oddiy (built-in) turlar uchun ishlatilishi mumkin",
+      "typename faqat foydalanuvchi klasslarini bildiradi"
+    ],
+    "correct": "Funksiya va klass shablonlarida ular ekvivalent"
+  },
+  {
+    "question": "66. Qaysi STL konteyneri shablon klass hisoblanadi?",
+    "answers": [
+      "std::vector",
+      "std::map<int, double>",
+      "std::function<void()>",
+      "std::string"
+    ],
+    "correct": "std::vector"
+  },
+  {
+    "question": "67. Agar shablon funksiyasi yaratilsa, lekin kodda hech qayerda ishlatilmasa nima bo'ladi?",
+    "answers": [
+      "Kompilyator uning nusxasini (instance) yaratmaydi",
+      "Kompilyatsiya xatosi bo'ladi",
+      "Funksiya sukut bo'yicha chaqiriladi",
+      "Bo'sh versiya yaratiladi"
+    ],
+    "correct": "Kompilyator uning nusxasini (instance) yaratmaydi"
+  },
+  {
+    "question": "68. Ushbu klasslardan qaysi birini turini aniq ko'rsatmasdan ishlatish mumkin?",
+    "answers": [
+      "std::array<int, 5>",
+      "std::vector<>",
+      "std::set<>",
+      "std::list<>"
+    ],
+    "correct": "std::array<int, 5>"
+  },
+  {
+    "question": "69. C++ da konteynerlar nima?",
+    "answers": [
+      "Elementlarni saqlash uchun ma'lumotlar tuzilmalari",
+      "Ko'rsatkichlar bilan ishlash funksiyalari",
+      "Fayllar bilan ishlash kutubxonalari",
+      "Grafik interfeyslar"
+    ],
+    "correct": "Elementlarni saqlash uchun ma'lumotlar tuzilmalari"
+  },
+  {
+    "question": "70. Qaysi konteyner dinamik massivni ifodalaydi?",
+    "answers": [
+      "std::vector",
+      "std::list",
+      "std::deque",
+      "std::set"
+    ],
+    "correct": "std::vector"
+  },
+  {
+    "question": "71. Qaysi konteyner juftliklarni (kalit → qiymat) saqlaydi?",
+    "answers": [
+      "std::map",
+      "std::vector",
+      "std::list",
+      "std::stack"
+    ],
+    "correct": "std::map"
+  },
+  {
+    "question": "72. Elementlari qat'iy tartibda joylashgan konteyner qaysi?",
+    "answers": [
+      "Ketma-ket konteynerlar (sequential containers)",
+      "Assotsiativ konteynerlar",
+      "Konteyner adapterlari",
+      "std::unordered_map"
+    ],
+    "correct": "Ketma-ket konteynerlar (sequential containers)"
+  },
+  {
+    "question": "73. Unikal elementlarni saqlash uchun qaysi konteyner ishlatiladi?",
+    "answers": [
+      "std::set",
+      "std::vector",
+      "std::deque",
+      "std::queue"
+    ],
+    "correct": "std::set"
+  },
+  {
+    "question": "74. Qaysi konteyner indeks bo'yicha tezkor kirishni ta'minlaydi?",
+    "answers": [
+      "std::vector",
+      "std::list",
+      "std::map",
+      "std::set"
+    ],
+    "correct": "std::vector"
+  },
+  {
+    "question": "75. Qaysi konteyner stekni (LIFO) amalga oshiradi?",
+    "answers": [
+      "std::stack",
+      "std::queue",
+      "std::deque",
+      "std::vector"
+    ],
+    "correct": "std::stack"
+  },
+  {
+    "question": "76. Qaysi konteyner o'zboshimcha (random access) kirishni qo'llab-quvvatlamaydi?",
+    "answers": [
+      "std::list",
+      "std::vector",
+      "std::deque",
+      "std::array"
+    ],
+    "correct": "std::list"
+  },
+  {
+    "question": "77. Qaysi konteyner ikki tomonlama navbat (deque) hisoblanadi?",
+    "answers": [
+      "std::deque",
+      "std::vector",
+      "std::list",
+      "std::stack"
+    ],
+    "correct": "std::deque"
+  },
+  {
+    "question": "78. Qaysi konteyner xesh-jadval (hash table) hisoblanadi?",
+    "answers": [
+      "std::unordered_map",
+      "std::map",
+      "std::set",
+      "std::priority_queue"
+    ],
+    "correct": "std::unordered_map"
+  },
+  {
+    "question": "79. Qaysi konteyner o'rtasiga element qo'shish va o'chirishga imkon beradi?",
+    "answers": [
+      "std::list",
+      "std::vector",
+      "std::queue",
+      "std::map"
+    ],
+    "correct": "std::list"
+  },
+  {
+    "question": "80. std::vector ning birinchi elementiga iterator qanday olinadi?",
+    "answers": [
+      "begin()",
+      "first()",
+      "start()",
+      "front()"
+    ],
+    "correct": "begin()"
+  },
+  {
+    "question": "81. std::vector dan oxirgi elementni qanday o'chirish mumkin?",
+    "answers": [
+      "pop_back()",
+      "erase()",
+      "remove()",
+      "delete_last()"
+    ],
+    "correct": "pop_back()"
+  },
+  {
+    "question": "82. Qaysi konteyner boshiga tez-tez qo'shish uchun eng samarali?",
+    "answers": [
+      "std::deque",
+      "std::vector",
+      "std::set",
+      "std::priority_queue"
+    ],
+    "correct": "std::deque"
+  },
+  {
+    "question": "83. Qaysi konteyner elementlarga kalit orqali kirishni ta'minlaydi?",
+    "answers": [
+      "std::map",
+      "std::vector",
+      "std::list",
+      "std::deque"
+    ],
+    "correct": "std::map"
+  },
+  {
+    "question": "84. Prioritetli navbatni amalga oshirish uchun qaysi konteynerdan foydalanish yaxshiroq?",
+    "answers": [
+      "std::priority_queue",
+      "std::queue",
+      "std::stack",
+      "std::vector"
+    ],
+    "correct": "std::priority_queue"
+  },
+  {
+    "question": "85. Qaysi STL konteyneri dublikatlarga ruxsat bermaydi?",
+    "answers": [
+      "std::set",
+      "std::vector",
+      "std::list",
+      "std::queue"
+    ],
+    "correct": "std::set"
+  },
+  {
+    "question": "86. Konteyner hajmini olish uchun qaysi metod ishlatiladi?",
+    "answers": [
+      "size()",
+      "length()",
+      "count()",
+      "getSize()"
+    ],
+    "correct": "size()"
+  },
+  {
+    "question": "87. Qaysi STL konteyneri navbatni (FIFO) amalga oshiradi?",
+    "answers": [
+      "std::queue",
+      "std::stack",
+      "std::vector",
+      "std::map"
+    ],
+    "correct": "std::queue"
+  },
+  {
+    "question": "88. Katta hajmdagi tartiblangan ma'lumotlarni kalit bo'yicha tezkor qidirish bilan saqlash uchun qaysi konteynerdan foydalanish yaxshiroq?",
+    "answers": [
+      "std::map",
+      "std::unordered_map",
+      "std::vector",
+      "std::list"
+    ],
+    "correct": "std::map"
+  },
+  {
+    "question": "89. Qt Creator da kodni avtomatik formatlaydigan funksiya qanday nomlanadi?",
+    "answers": [
+      "Code Formatting (Clang Format)",
+      "Auto Align",
+      "Quick Fix",
+      "Code Beautifier"
+    ],
+    "correct": "Code Formatting (Clang Format)"
+  },
+  {
+    "question": "90. Qt Creator da ranglar sxemasini qanday o'zgartirish mumkin?",
+    "answers": [
+      "Sozlamalarda (Options) → Environment → Theme",
+      "Buyruq satri orqali",
+      "Server Explorer panelida",
+      "Bu mumkin emas"
+    ],
+    "correct": "Sozlamalarda (Options) → Environment → Theme"
+  },
+  {
+    "question": "91. Dasturni Qt Creator da ishga tushirish uchun qaysi tugmalar ishlatiladi?",
+    "answers": [
+      "Ctrl + R (yoki Run tugmasi)",
+      "F5",
+      "Alt + X",
+      "Shift + P"
+    ],
+    "correct": "Ctrl + R (yoki Run tugmasi)"
+  },
+  {
+    "question": "92. Qt Creator da kompilyatsiya xatolari ko'rsatiladigan oyna qanday nomlanadi?",
+    "answers": [
+      "Issues (muammolar paneli)",
+      "Solution Explorer",
+      "Toolbox",
+      "Debug Console"
+    ],
+    "correct": "Issues (muammolar paneli)"
+  },
+  {
+    "question": "93. Qt Creator da shablon kodini (tayyor qismlarni) yozishga yordam beradigan mexanizm qanday nomlanadi?",
+    "answers": [
+      "Snippets (kod qismlari)",
+      "Templates",
+      "Code Generator",
+      "Macro"
+    ],
+    "correct": "Snippets (kod qismlari)"
+  },
+  {
+    "question": "94. qmake ishlatilganda Qt Creator da loyiha konfiguratsiyasi uchun qaysi fayl (kengaytmasi) javob beradi?",
+    "answers": [
+      ".pro",
+      ".vcxproj",
+      ".cmake",
+      ".qbs"
+    ],
+    "correct": ".pro"
+  },
+  {
+    "question": "95. Qt Creator da refaktoring (Refactoring) nimani anglatadi?",
+    "answers": [
+      "Kod tuzilishini uning xatti-harakatini o'zgartirmasdan yaxshilash",
+      "Xotirani tozalash",
+      "Dasturni ishga tushirish",
+      "Malumotlar bazalari bilan ishlash"
+    ],
+    "correct": "Kod tuzilishini uning xatti-harakatini o'zgartirmasdan yaxshilash"
+  },
+  {
+    "question": "96. Qt Creator ning qaysi vositasi kod o'zgarishlarini kuzatish imkonini beradi (versiyalarni boshqarish tizimi)?",
+    "answers": [
+      "Git (o'rnatilgan VCS qo'llab-quvvatlashi)",
+      "File Manager",
+      "Solution Explorer",
+      "Debugger"
+    ],
+    "correct": "Git (o'rnatilgan VCS qo'llab-quvvatlashi)"
+  },
+  {
+    "question": "97. Qt Creator ning vizual dizaynerida elementlarning xususiyatlarini o'rnatish uchun qaysi usul ishlatiladi?",
+    "answers": [
+      "Xususiyatlar oynasi (Properties Window)",
+      "Debugger",
+      "IntelliSense",
+      "File Manager"
+    ],
+    "correct": "Xususiyatlar oynasi (Properties Window)"
+  },
+  {
+    "question": "98. Qt Creator da kodni testlashni avtomatlashtirishga qaysi vosita yordam beradi?",
+    "answers": [
+      "Qt Test Framework (yoki Unit Test Framework)",
+      "Debugger",
+      "Solution Explorer",
+      "IntelliSense"
+    ],
+    "correct": "Qt Test Framework (yoki Unit Test Framework)"
+  },
+  {
+    "question": "99. Visual Studio nima?",
+    "answers": [
+      "Integratsiyalashgan dasturlash muhiti (IDE)",
+      "Operatsion tizim",
+      "Brauzer",
+      "Matn muharriri"
+    ],
+    "correct": "Integratsiyalashgan dasturlash muhiti (IDE)"
+  },
+  {
+    "question": "100. Qt Designer da interfeys yaratish uchun vidjetlar qayerda joylashgan?",
+    "answers": [
+      "Vidjetlar paneli (Widget Box)",
+      "Loyihalar paneli",
+      "Tuzatuvchi (Debugger)",
+      "Vazifa menejeri"
+    ],
+    "correct": "Vidjetlar paneli (Widget Box)"
+  },
+  {
+    "question": "101. Qt da vidjetlar qanday turlarga bo'linadi?",
+    "answers": [
+      "Vizual va novizual",
+      "Dasturiy va apparatli",
+      "Majburiy va ixtiyoriy",
+      "Mahalliy va tarmoqli"
+    ],
+    "correct": "Vizual va novizual"
+  },
+  {
+    "question": "102. Qt Designer da forma nima?",
+    "answers": [
+      "Foydalanuvchi interfeys oynasi",
+      "Konfiguratsiya fayli",
+      "Malumotlar bazasi moduli",
+      "Asboblar paneli"
+    ],
+    "correct": "Foydalanuvchi interfeys oynasi"
+  },
+  {
+    "question": "103. Qt Creator da (dizayn rejimida) vidjet xususiyatlarini qayerda o'zgartirish mumkin?",
+    "answers": [
+      "Xususiyatlar muharririda (Property Editor)",
+      "Tuzatuvchi konsolida",
+      "Xatolar ro'yxatida",
+      "Serverlar eksplorerida"
+    ],
+    "correct": "Xususiyatlar muharririda (Property Editor)"
+  },
+  {
+    "question": "104. Qt da foydalanuvchi matn kiritishi uchun qaysi vidjet mo'ljallangan?",
+    "answers": [
+      "QLineEdit",
+      "QLabel",
+      "QPushButton",
+      "QPictureBox"
+    ],
+    "correct": "QLineEdit"
+  },
+  {
+    "question": "105. Qt da foydalanuvchiga bir nechta variantdan birini tanlash imkonini beradigan vidjet qaysi?",
+    "answers": [
+      "QRadioButton",
+      "QLineEdit",
+      "QLabel",
+      "QProgressBar"
+    ],
+    "correct": "QRadioButton"
+  },
+  {
+    "question": "106. Qt da hodisa ishlovchisi (event handler) nima?",
+    "answers": [
+      "Vidjet bilan o'zaro aloqada (signal) bajariladigan funksiya (slot)",
+      "Dasturlash muhiti",
+      "Kompilyatsiya xatosi",
+      "Yangi loyiha fayli"
+    ],
+    "correct": "Vidjet bilan o'zaro aloqada (signal) bajariladigan funksiya (slot)"
+  },
+  {
+    "question": "107. Qt Creator da tugma uchun hodisa ishlovchisini qanday qo'shish mumkin?",
+    "answers": [
+      "Tugmaning signalini tanlash (masalan, clicked()) va kontekst menyusi yoki signal/slot muharriri orqali slot yaratish",
+      "Loyihalar panelida",
+      "Xatolar ro'yxatida",
+      "Tuzatuvchi konsolida"
+    ],
+    "correct": "Tugmaning signalini tanlash (masalan, clicked()) va kontekst menyusi yoki signal/slot muharriri orqali slot yaratish"
+  },
+  {
+    "question": "108. Qt da dastur bajarilishi vaqtida tugma matnini qanday o'zgartirish mumkin?",
+    "answers": [
+      "button->setText(\"Yangi matn\");",
+      "button->Text = \"Yangi matn\";",
+      "button.setText(\"Yangi matn\");",
+      "button->changeText(\"Yangi matn\");"
+    ],
+    "correct": "button->setText(\"Yangi matn\");"
+  },
+  {
+    "question": "109. Qt ning qaysi komponenti foydalanuvchiga ro'yxatdan bir nechta elementni tanlash imkonini beradi?",
+    "answers": [
+      "QListWidget (MultiSelection rejimida)",
+      "QLineEdit",
+      "QProgressBar",
+      "QLabel"
+    ],
+    "correct": "QListWidget (MultiSelection rejimida)"
+  },
+  {
+    "question": "110. Qt ning qaysi komponenti ochiladigan ro'yxatdan bitta elementni tanlash imkonini beradi?",
+    "answers": [
+      "QComboBox",
+      "QListWidget",
+      "QPushButton",
+      "QLineEdit"
+    ],
+    "correct": "QComboBox"
+  },
+  {
+    "question": "111. Qt Designer / Qt Creator da komponentlarning xususiyatlari qayerda saqlanadi?",
+    "answers": [
+      "Xususiyatlar muharririda (Property Editor)",
+      "Yig'ish konfiguratsiyasi faylida",
+      "Tuzatuvchi konsolida",
+      "Xatolar ro'yxatida"
+    ],
+    "correct": "Xususiyatlar muharririda (Property Editor)"
+  },
+  {
+    "question": "112. Qt da statik matnni ko'rsatish uchun qaysi komponent ishlatiladi?",
+    "answers": [
+      "QLabel",
+      "QLineEdit",
+      "QPushButton",
+      "QPictureBox (analogi yo'q, QLabel tasvirlar uchun)"
+    ],
+    "correct": "QLabel"
+  },
+  {
+    "question": "113. Qt da forma (oyna) fonining rangini qanday o'zgartirish mumkin?",
+    "answers": [
+      "Stil jadvali (setStyleSheet) yoki palitra (QPalette) orqali",
+      "Debug Console orqali",
+      "Error List orqali",
+      "Bu mumkin emas"
+    ],
+    "correct": "Stil jadvali (setStyleSheet) yoki palitra (QPalette) orqali"
+  },
+  {
+    "question": "114. Qt da foydalanuvchiga alohida oynada matnli xabar chiqarishga qaysi komponent imkon beradi?",
+    "answers": [
+      "QMessageBox",
+      "QListWidget",
+      "QLineEdit",
+      "QComboBox"
+    ],
+    "correct": "QMessageBox"
+  },
+  {
+    "question": "115. Qt da ma'lumotlar va interfeysni bog'laydigan mexanizm (masalan, modeldagi ma'lumotlarni viewda ko'rsatish) qanday nomlanadi?",
+    "answers": [
+      "Modellar va ko'rinishlar (Model/View)",
+      "IntelliSense",
+      "Tuzatish (Debugging)",
+      "Loyihalar paneli"
+    ],
+    "correct": "Modellar va ko'rinishlar (Model/View)"
+  },
+  {
+    "question": "116. Qt Creator da loyiha fayllarini (qo'shish, o'chirish, qayta nomlash) qayerda boshqarish mumkin?",
+    "answers": [
+      "Loyihalar panelida (Projects)",
+      "Vidjetlar panelida (Widget Box)",
+      "Tuzatuvchi konsolida",
+      "Xususiyatlar oynasida (Property Editor)"
+    ],
+    "correct": "Loyihalar panelida (Projects)"
+  },
+  {
+    "question": "117. Qt Creator da bir loyihada bir nechta forma (oyna) ni tashkil qilishga qaysi vosita imkon beradi?",
+    "answers": [
+      "Loyihalar panelining kontekst menyusi orqali yangi formalar qo'shish (yoki bir nechta QWidget/QDialog klasslaridan foydalanish)",
+      "Tuzatuvchi (Debugger)",
+      "Vazifa menejeri",
+      "IntelliSense"
+    ],
+    "correct": "Loyihalar panelining kontekst menyusi orqali yangi formalar qo'shish (yoki bir nechta QWidget/QDialog klasslaridan foydalanish)"
+  },
+  {
+    "question": "118. Qt da chizish (chiziqlar, shakllar, matn) uchun qaysi klass ishlatiladi?",
+    "answers": [
+      "QPainter",
+      "QPixmap",
+      "QImage",
+      "QBrush"
+    ],
+    "correct": "QPainter"
+  },
+  {
+    "question": "119. Qt da QPainter nima?",
+    "answers": [
+      "Vidjetlar va chiqarish qurilmalarida chizish uchun vosita",
+      "Tasvirlar bazasi",
+      "Veb-ishlab chiqarish uchun freymvork",
+      "Dasturlash tili"
+    ],
+    "correct": "Vidjetlar va chiqarish qurilmalarida chizish uchun vosita"
+  },
+  {
+    "question": "120. Qt da 2D-grafika va vidjetlar bilan ishlash uchun eng ko'p qaysi API ishlatiladi?",
+    "answers": [
+      "QPainter (QtGui qismi)",
+      "QOpenGLWidget",
+      "QDirectX (mavjud emas)",
+      "QVulkanWindow"
+    ],
+    "correct": "QPainter (QtGui qismi)"
+  },
+  {
+    "question": "121. QPainter da chiziqlar chizish uchun qaysi obyekt ishlatiladi (rangi, qalinligi, uslubi)?",
+    "answers": [
+      "QPen",
+      "QBrush",
+      "QFont",
+      "QPalette"
+    ],
+    "correct": "QPen"
+  },
+  {
+    "question": "122. QPainter da shakllarni to'ldirish uchun qaysi obyekt ishlatiladi (rangi, gradienti, teksturasi)?",
+    "answers": [
+      "QBrush",
+      "QPen",
+      "QTextEdit",
+      "QListWidget"
+    ],
+    "correct": "QBrush"
+  },
+  {
+    "question": "123. Qt da rastr tasvirlar bilan ishlash uchun qaysi klass ishlatiladi (piksellarga to'g'ridan-to'g'ri kirish)?",
+    "answers": [
+      "QImage",
+      "QPixmap",
+      "QPicture",
+      "QBitmap"
+    ],
+    "correct": "QImage"
+  },
+  {
+    "question": "124. QPainter ning qaysi metodi aylana (ellips) chizish imkonini beradi?",
+    "answers": [
+      "drawEllipse()",
+      "drawCircle()",
+      "paintRound()",
+      "createOval()"
+    ],
+    "correct": "drawEllipse()"
+  },
+  {
+    "question": "125. Qt da interfeysda tasvirni ko'rsatish uchun qaysi komponent ishlatiladi?",
+    "answers": [
+      "QLabel (setPixmap bilan) yoki QGraphicsView",
+      "QLineEdit",
+      "QPushButton",
+      "QCheckBox"
+    ],
+    "correct": "QLabel (setPixmap bilan) yoki QGraphicsView"
+  },
+  {
+    "question": "126. QPainter ning qaysi metodi to'rtburchak chizish imkonini beradi?",
+    "answers": [
+      "drawRect()",
+      "drawBox()",
+      "paintRect()",
+      "makeSquare()"
+    ],
+    "correct": "drawRect()"
+  },
+  {
+    "question": "127. QPixmap yoki QImage ga tasvirni yuklash uchun qaysi metod ishlatiladi?",
+    "answers": [
+      "load()",
+      "openFile()",
+      "setBitmap()",
+      "drawPicture()"
+    ],
+    "correct": "load()"
+  },
+  {
+    "question": "128. QPainter da shrift uslubini o'zgartirish uchun qaysi obyekt ishlatiladi (nomi, o'lchami, still)?",
+    "answers": [
+      "QFont",
+      "QPen",
+      "QPixmap",
+      "QBrush"
+    ],
+    "correct": "QFont"
+  },
+  {
+    "question": "129. Vidjetda chizish uchun (paintEvent ishlovchisida) Qt da qaysi klass ishlatiladi?",
+    "answers": [
+      "QPainter",
+      "QDialog",
+      "QFormView (Qt da yo'q)",
+      "QStatic (yo'q)"
+    ],
+    "correct": "QPainter"
+  },
+  {
+    "question": "130. QPainter da chiziqlarni tekislash (antialiasing) uchun qaysi parametr javob beradi?",
+    "answers": [
+      "QPainter::Antialiasing (setRenderHint)",
+      "SmoothMode",
+      "SoftEdges",
+      "BlurEffect"
+    ],
+    "correct": "QPainter::Antialiasing (setRenderHint)"
+  },
+  {
+    "question": "131. QPainter da matn chiqarish uchun qaysi metod ishlatiladi?",
+    "answers": [
+      "drawText()",
+      "textOut()",
+      "printText()",
+      "writeText()"
+    ],
+    "correct": "drawText()"
+  },
+  {
+    "question": "132. QPainter da qalam (QPen) rangini qanday o'zgartirish mumkin?",
+    "answers": [
+      "QPen yaratishda QColor berish yoki setColor() orqali",
+      "Forma xususiyatlarida o'rnatish",
+      "Fill() buyrug'idan foydalanish",
+      "Bu mumkin emas"
+    ],
+    "correct": "QPen yaratishda QColor berish yoki setColor() orqali"
+  },
+  {
+    "question": "133. Qt da rangni boshqarish uchun qaysi obyekt javob beradi (palitra, lekin ko'pincha QColor ishlatiladi)?",
+    "answers": [
+      "QColor (yoki vidjetlar uchun QPalette)",
+      "ColorManager",
+      "QBrush",
+      "ThemeHandler"
+    ],
+    "correct": "QColor (yoki vidjetlar uchun QPalette)"
+  },
+  {
+    "question": "134. Chizish maydonini tozalash (fon bilan to'ldirish) uchun qaysi metod imkon beradi?",
+    "answers": [
+      "fillRect() (yoki eraseRect, lekin ko'pincha fillRect(rect(), brush))",
+      "clear()",
+      "wipe()",
+      "redraw()"
+    ],
+    "correct": "fillRect() (yoki eraseRect, lekin ko'pincha fillRect(rect(), brush))"
+  },
+  {
+    "question": "135. QPen da chiziq qalinligini qanday o'rnatish mumkin?",
+    "answers": [
+      "QPen konstruktorida yoki setWidth() bilan",
+      "Forma sozlamalarida o'zgartirish",
+      "drawText() dan foydalanish",
+      "setPixel() orqali berish"
+    ],
+    "correct": "QPen konstruktorida yoki setWidth() bilan"
+  },
+  {
+    "question": "136. Qt da rastr tasvirlarni saqlashga imkon beruvchi obyekt qaysi (piksellarga to'g'ridan-to'g'ri kirish bilan)?",
+    "answers": [
+      "QImage",
+      "QPen",
+      "QBrush",
+      "QPalette"
+    ],
+    "correct": "QImage"
+  },
+  {
+    "question": "137. Qt da grafik (masalan, QChart) chizish uchun qaysi metod ishlatiladi?",
+    "answers": [
+      "Seriyalar qo'shish (QLineSeries, addSeries()) va keyin createDefaultAxes() yoki QChartView da chizish",
+      "drawGraph()",
+      "buildChart()",
+      "makePlot()"
+    ],
+    "correct": "Seriyalar qo'shish (QLineSeries, addSeries()) va keyin createDefaultAxes() yoki QChartView da chizish"
+  },
+  {
+    "question": "138. Dasturlashda (GUI kontekstida) komponent nima?",
+    "answers": [
+      "Foydalanuvchi bilan o'zaro aloqa qilish uchun mo'ljallangan kodning modul qismi (vidjet)",
+      "Grafik interfeys",
+      "Malumotlar bazasi",
+      "Veb-server"
+    ],
+    "correct": "Foydalanuvchi bilan o'zaro aloqa qilish uchun mo'ljallangan kodning modul qismi (vidjet)"
+  },
+  {
+    "question": "139. Qt da komponentlar (vidjetlar) qanday turlarga bo'linadi?",
+    "answers": [
+      "Vizual va novizual",
+      "Mahalliy va global",
+      "Statik va dinamik",
+      "Frontend va backend"
+    ],
+    "correct": "Vizual va novizual"
+  },
+  {
+    "question": "140. Bir nechta variantdan birini tanlash uchun qaysi vidjet ishlatiladi (o'zgartirgich)?",
+    "answers": [
+      "QRadioButton",
+      "QCheckBox",
+      "QLineEdit",
+      "QLabel"
+    ],
+    "correct": "QRadioButton"
+  },
+  {
+    "question": "141. Bir nechta qiymatlarni tanlash imkonini beradigan vidjet qaysi (belgilash katakchalari)?",
+    "answers": [
+      "QCheckBox",
+      "QRadioButton",
+      "QComboBox",
+      "QProgressBar"
+    ],
+    "correct": "QCheckBox"
+  },
+  {
+    "question": "142. Ochiladigan ro'yxatni ifodalovchi boshqaruv elementi qaysi?",
+    "answers": [
+      "QComboBox",
+      "QListWidget",
+      "QPushButton",
+      "QLabel"
+    ],
+    "correct": "QComboBox"
+  },
+  {
+    "question": "143. QCheckBox holati o'zgarganda qaysi signal ishga tushadi?",
+    "answers": [
+      "clicked(bool) yoki stateChanged(int)",
+      "currentIndexChanged(int)",
+      "doubleClicked()",
+      "paintEvent()"
+    ],
+    "correct": "clicked(bool) yoki stateChanged(int)"
+  },
+  {
+    "question": "144. QListWidget (yoki QComboBox) ga element qo'shish uchun qaysi metod ishlatiladi?",
+    "answers": [
+      "addItem() (yoki addItems())",
+      "insertItem()",
+      "append()",
+      "push()"
+    ],
+    "correct": "addItem() (yoki addItems())"
+  },
+  {
+    "question": "145. QComboBox da tanlangan elementning indeksini qanday olish mumkin?",
+    "answers": [
+      "currentIndex()",
+      "currentData()",
+      "findText()",
+      "itemData()"
+    ],
+    "correct": "currentIndex()"
+  },
+  {
+    "question": "146. QComboBox da tanlov o'zgarganda qaysi signal chaqiriladi?",
+    "answers": [
+      "currentIndexChanged(int)",
+      "clicked()",
+      "paintEvent()",
+      "itemSelectionChanged()"
+    ],
+    "correct": "currentIndexChanged(int)"
+  },
+  {
+    "question": "147. QVector (yoki standart massiv) dan oxirgi elementni o'chirish uchun qaysi metod ishlatiladi?",
+    "answers": [
+      "pop_back() (masalan, vec.pop_back())",
+      "erase()",
+      "remove()",
+      "delete_last()"
+    ],
+    "correct": "pop_back() (masalan, vec.pop_back())"
+  },
+  {
+    "question": "148. Dinamik massiv uchun eng yaxshi mos keladigan STL (yoki Qt) konteyneri qaysi?",
+    "answers": [
+      "std::vector (yoki QVector)",
+      "std::list",
+      "std::map",
+      "std::set"
+    ],
+    "correct": "std::vector (yoki QVector)"
+  },
+  {
+    "question": "149. std::vector (yoki QVector) ning barcha elementlarini tozalash uchun qaysi metod ishlatiladi?",
+    "answers": [
+      "clear()",
+      "erase()",
+      "reset()",
+      "remove_all()"
+    ],
+    "correct": "clear()"
+  },
+  {
+    "question": "150. Qt da ma'lumotlar bazalari bilan ishlash uchun modul qanday nomlanadi?",
+    "answers": [
+      "Qt SQL (QSqlDatabase, QSqlQuery)",
+      "HTTP",
+      "XML",
+      "JSON"
+    ],
+    "correct": "Qt SQL (QSqlDatabase, QSqlQuery)"
+  },
+  {
+    "question": "151. Qt-ilovalarda ko'pincha o'rnatilgan (serversiz) ma'lumotlar bazasi sifatida qaysi baza ishlatiladi?",
+    "answers": [
+      "SQLite",
+      "MySQL",
+      "PostgreSQL",
+      "Oracle DB"
+    ],
+    "correct": "SQLite"
+  },
+  {
+    "question": "152. SQL ning qaysi metodi jadvaldan ma'lumotlarni tanlaydi (so'rov)?",
+    "answers": [
+      "SELECT",
+      "INSERT",
+      "DELETE",
+      "UPDATE"
+    ],
+    "correct": "SELECT"
+  },
+  {
+    "question": "153. Qt da (Qt SQL orqali) ma'lumotlar bazasiga ulanishni qanday yaratish mumkin?",
+    "answers": [
+      "QSqlDatabase::addDatabase(\"QSQLITE\") + setDatabaseName() + open()",
+      "DBConnect()",
+      "OpenConnection()",
+      "InitDatabase()"
+    ],
+    "correct": "QSqlDatabase::addDatabase(\"QSQLITE\") + setDatabaseName() + open()"
+  },
+  {
+    "question": "154. Ma'lumotlarni kiritish uchun qaysi SQL operatori ishlatiladi?",
+    "answers": [
+      "INSERT",
+      "SELECT",
+      "DELETE",
+      "MODIFY"
+    ],
+    "correct": "INSERT"
+  },
+  {
+    "question": "155. Qt da tugma (QPushButton) bosilganda qaysi signal yuboriladi?",
+    "answers": [
+      "clicked()",
+      "paintEvent()",
+      "currentIndexChanged()",
+      "itemSelectionChanged()"
+    ],
+    "correct": "clicked()"
+  },
+  {
+    "question": "156. QListWidget (yoki QComboBox) da tanlov o'zgarganda qaysi signal chaqiriladi?",
+    "answers": [
+      "currentItemChanged() yoki currentIndexChanged()",
+      "clicked()",
+      "paintEvent()",
+      "windowCreated()"
+    ],
+    "correct": "currentItemChanged() yoki currentIndexChanged()"
+  },
+  {
+    "question": "157. Qt SQL da ma'lumotlar bazasi ulanishini qanday yopish mumkin?",
+    "answers": [
+      "db.close()",
+      "CloseDB()",
+      "EndSession()",
+      "DisconnectDB()"
+    ],
+    "correct": "db.close()"
+  },
+  {
+    "question": "158. Foydalanuvchi interfeysi (UI) nima?",
+    "answers": [
+      "Foydalanuvchining dastur bilan o'zaro ta'sir elementlari yig'indisi",
+      "Grafik protsessor",
+      "Ishlab chiqish muhiti",
+      "Malumotlar bazasi"
+    ],
+    "correct": "Foydalanuvchining dastur bilan o'zaro ta'sir elementlari yig'indisi"
+  },
+  {
+    "question": "159. Tugmalar, oynalar va formalardan foydalanadigan interfeys turi qaysi?",
+    "answers": [
+      "Grafik interfeys (GUI)",
+      "Konsol interfeysi (CLI)",
+      "Virtual interfeys",
+      "Fayl interfeysi"
+    ],
+    "correct": "Grafik interfeys (GUI)"
+  },
+  {
+    "question": "160. Qt Creator da interfeys elementlari bilan ishlash (formalarni vizual tahrirlash) imkonini beradigan vosita qaysi?",
+    "answers": [
+      "Qt Designer (Qt Creator ga o'rnatilgan)",
+      "Tuzatuvchi (Debugger)",
+      "Loyihalar paneli",
+      "Vazifa menejeri"
+    ],
+    "correct": "Qt Designer (Qt Creator ga o'rnatilgan)"
+  },
+  {
+    "question": "161. Matn teglarini ko'rsatish uchun qaysi vidjet ishlatiladi?",
+    "answers": [
+      "QLabel",
+      "QLineEdit",
+      "QPushButton",
+      "QComboBox"
+    ],
+    "correct": "QLabel"
+  },
+  {
+    "question": "162. Foydalanuvchi matn kiritishi uchun qaysi vidjet ishlatiladi?",
+    "answers": [
+      "QLineEdit",
+      "QLabel",
+      "QListWidget",
+      "QLabel (rasmlar uchun)"
+    ],
+    "correct": "QLineEdit"
+  },
+  {
+    "question": "163. Harakatlarni bajarish uchun tugmani ifodalovchi vidjet qaysi?",
+    "answers": [
+      "QPushButton",
+      "QLineEdit",
+      "QLabel",
+      "QProgressBar"
+    ],
+    "correct": "QPushButton"
+  },
+  {
+    "question": "164. Elementlar ro'yxatini (bir yoki bir nechta tanlash uchun) ko'rsatuvchi vidjet qaysi?",
+    "answers": [
+      "QListWidget (yoki QListView)",
+      "QComboBox",
+      "QPushButton",
+      "QLineEdit"
+    ],
+    "correct": "QListWidget (yoki QListView)"
+  },
+  {
+    "question": "165. Ochiladigan ro'yxat (ro'yxatdan bitta elementni tanlash) uchun mo'ljallangan vidjet qaysi?",
+    "answers": [
+      "QComboBox",
+      "QListWidget",
+      "QCheckBox",
+      "QLabel"
+    ],
+    "correct": "QComboBox"
+  },
+  {
+    "question": "166. Qt da qalqib chiquvchi xabar oynasini chiqarish uchun qaysi metod ishlatiladi?",
+    "answers": [
+      "QMessageBox::information() (yoki warning, critical, about)",
+      "Popup::Display()",
+      "Window::Alert()",
+      "NotifyBox::Open()"
+    ],
+    "correct": "QMessageBox::information() (yoki warning, critical, about)"
+  },
+  {
+    "question": "167. Qt da (QDialog asosida) modal dialog oynasini qanday yaratish mumkin?",
+    "answers": [
+      "exec()",
+      "show()",
+      "doModal()",
+      "openModal()"
+    ],
+    "correct": "exec()"
+  },
+  {
+    "question": "168. Qt da tugma bosilganda qaysi ishlovchi (signal) chaqiriladi?",
+    "answers": [
+      "clicked()",
+      "currentIndexChanged()",
+      "itemSelectionChanged()",
+      "windowCreated()"
+    ],
+    "correct": "clicked()"
+  },
+  {
+    "question": "169. Qt da ma'lumotlarni bir oynadan ikkinchi oynaga qanday uzatish mumkin?",
+    "answers": [
+      "Konstruktor parametrlari, signal/slot yoki ko'rsatkichlar orqali",
+      "Global o'zgaruvchi orqali",
+      "Tuzatuvchi (Debugger) orqali",
+      "QMessageBox orqali"
+    ],
+    "correct": "Konstruktor parametrlari, signal/slot yoki ko'rsatkichlar orqali"
+  },
+  {
+    "question": "170. Qt da tugmadagi matn uchun qaysi xususiyat (yoki metod) javob beradi?",
+    "answers": [
+      "setText() / text()",
+      "label",
+      "caption",
+      "value"
+    ],
+    "correct": "setText() / text()"
+  },
+  {
+    "question": "171. Qt da oynani yashirishga qaysi metod imkon beradi?",
+    "answers": [
+      "hide()",
+      "close()",
+      "exit()",
+      "minimize()"
+    ],
+    "correct": "hide()"
+  },
+  {
+    "question": "172. Qt da oynani (dialogni) yopish uchun qaysi metod ishlatiladi?",
+    "answers": [
+      "close() (yoki QDialog uchun accept()/reject())",
+      "closeWindow()",
+      "exit()",
+      "hideWindow()"
+    ],
+    "correct": "close() (yoki QDialog uchun accept()/reject())"
+  },
+  {
+    "question": "173. Qt da nomodal dialog oynasi nima?",
+    "answers": [
+      "Asosiy oynani bloklamaydigan oyna",
+      "Barcha jarayonlarni bloklaydigan oyna",
+      "Dasturni yopuvchi oyna",
+      "Ogohlantirishli oyna"
+    ],
+    "correct": "Asosiy oynani bloklamaydigan oyna"
+  },
+  {
+    "question": "174. Qt da nomodal oynani qanday chaqirish mumkin?",
+    "answers": [
+      "new QDialog + show()",
+      "exec()",
+      "doModal()",
+      "open()"
+    ],
+    "correct": "new QDialog + show()"
+  },
+  {
+    "question": "175. Qt da (QWidget) forma fonining rangini qanday o'zgartirish mumkin?",
+    "answers": [
+      "setStyleSheet() yoki setPalette() yordamida",
+      "Tuzatuvchi orqali",
+      "QMessageBox orqali",
+      "Bu mumkin emas"
+    ],
+    "correct": "setStyleSheet() yoki setPalette() yordamida"
+  },
+  {
+    "question": "176. Bajarilish vaqtida QLineEdit ga qiymat o'rnatishga qaysi metod imkon beradi?",
+    "answers": [
+      "setText()",
+      "setValue()",
+      "assignText()",
+      "updateValue()"
+    ],
+    "correct": "setText()"
+  },
+  {
+    "question": "177. Qt da tasvirlarni ko'rsatish uchun qaysi vidjet ishlatiladi?",
+    "answers": [
+      "QLabel (setPixmap bilan) yoki QGraphicsView",
+      "QLineEdit",
+      "QPushButton",
+      "QCheckBox"
+    ],
+    "correct": "QLabel (setPixmap bilan) yoki QGraphicsView"
+  }
+]
